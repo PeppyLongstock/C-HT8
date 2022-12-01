@@ -1,0 +1,15 @@
+/Users/asyateresenko/Desktop/Git/seminar/Seminar6./HW/Task41/bin/Debug/net7.0/Task41
+/Users/asyateresenko/Desktop/Git/seminar/Seminar6./HW/Task41/bin/Debug/net7.0/Task41.deps.json
+/Users/asyateresenko/Desktop/Git/seminar/Seminar6./HW/Task41/bin/Debug/net7.0/Task41.runtimeconfig.json
+/Users/asyateresenko/Desktop/Git/seminar/Seminar6./HW/Task41/bin/Debug/net7.0/Task41.dll
+/Users/asyateresenko/Desktop/Git/seminar/Seminar6./HW/Task41/bin/Debug/net7.0/Task41.pdb
+/Users/asyateresenko/Desktop/Git/seminar/Seminar6./HW/Task41/obj/Debug/net7.0/Task41.csproj.AssemblyReference.cache
+/Users/asyateresenko/Desktop/Git/seminar/Seminar6./HW/Task41/obj/Debug/net7.0/Task41.GeneratedMSBuildEditorConfig.editorconfig
+/Users/asyateresenko/Desktop/Git/seminar/Seminar6./HW/Task41/obj/Debug/net7.0/Task41.AssemblyInfoInputs.cache
+/Users/asyateresenko/Desktop/Git/seminar/Seminar6./HW/Task41/obj/Debug/net7.0/Task41.AssemblyInfo.cs
+/Users/asyateresenko/Desktop/Git/seminar/Seminar6./HW/Task41/obj/Debug/net7.0/Task41.csproj.CoreCompileInputs.cache
+/Users/asyateresenko/Desktop/Git/seminar/Seminar6./HW/Task41/obj/Debug/net7.0/Task41.dll
+/Users/asyateresenko/Desktop/Git/seminar/Seminar6./HW/Task41/obj/Debug/net7.0/refint/Task41.dll
+/Users/asyateresenko/Desktop/Git/seminar/Seminar6./HW/Task41/obj/Debug/net7.0/Task41.pdb
+/Users/asyateresenko/Desktop/Git/seminar/Seminar6./HW/Task41/obj/Debug/net7.0/Task41.genruntimeconfig.cache
+/Users/asyateresenko/Desktop/Git/seminar/Seminar6./HW/Task41/obj/Debug/net7.0/ref/Task41.dll
