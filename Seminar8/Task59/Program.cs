@@ -36,3 +36,21 @@ for (int i = 0; i < array.GetLength(0); i++)
         }
     }
 }
+int minRowSum = int.MaxValue, indexMinRow = 0;
+ 
+             for (int i = 0; i < n1; i++)
+             {
+                int rowSum = 0;
+                for (int j = 0; j < n2; j++)
+                    rowSum += A[i, j];
+                
+                if (rowSum < minRowSum)
+                {
+                    minRowSum = rowSum;
+                    indexMinRow = i;
+                }
+             }
+ 
+             Console.WriteLine("Строка с минимальной суммой элементов");
+                 for(int j = 0;j<n2;j++)
+                      Console.Write(A[indexMinRow, j] + "\t");
