@@ -71,7 +71,7 @@ void OutputUserElement(int[] array)
     {
         if (userElement == i)
         {
-            Console.WriteLine($" Значение элемента под индексом {userElement} = {array[i]}");
+            Console.WriteLine($" The element with the index is {userElement} = {array[i]}");
         }
     }
 
