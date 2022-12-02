@@ -31,3 +31,4 @@
             int b2 = GetNumberFromUser ("Enter the values of b2: ");
             int k2 = GetNumberFromUser ("Enter the values of k2: ");
             double result = InterSectionPoint (b1, k1, b2, k2);
+            /*Task43*/
