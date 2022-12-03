@@ -1,0 +1,15 @@
+/Users/asyateresenko/Desktop/Git/seminar/Seminar9/HTSeminar9/task64/bin/Debug/net7.0/task64
+/Users/asyateresenko/Desktop/Git/seminar/Seminar9/HTSeminar9/task64/bin/Debug/net7.0/task64.deps.json
+/Users/asyateresenko/Desktop/Git/seminar/Seminar9/HTSeminar9/task64/bin/Debug/net7.0/task64.runtimeconfig.json
+/Users/asyateresenko/Desktop/Git/seminar/Seminar9/HTSeminar9/task64/bin/Debug/net7.0/task64.dll
+/Users/asyateresenko/Desktop/Git/seminar/Seminar9/HTSeminar9/task64/bin/Debug/net7.0/task64.pdb
+/Users/asyateresenko/Desktop/Git/seminar/Seminar9/HTSeminar9/task64/obj/Debug/net7.0/task64.csproj.AssemblyReference.cache
+/Users/asyateresenko/Desktop/Git/seminar/Seminar9/HTSeminar9/task64/obj/Debug/net7.0/task64.GeneratedMSBuildEditorConfig.editorconfig
+/Users/asyateresenko/Desktop/Git/seminar/Seminar9/HTSeminar9/task64/obj/Debug/net7.0/task64.AssemblyInfoInputs.cache
+/Users/asyateresenko/Desktop/Git/seminar/Seminar9/HTSeminar9/task64/obj/Debug/net7.0/task64.AssemblyInfo.cs
+/Users/asyateresenko/Desktop/Git/seminar/Seminar9/HTSeminar9/task64/obj/Debug/net7.0/task64.csproj.CoreCompileInputs.cache
+/Users/asyateresenko/Desktop/Git/seminar/Seminar9/HTSeminar9/task64/obj/Debug/net7.0/task64.dll
+/Users/asyateresenko/Desktop/Git/seminar/Seminar9/HTSeminar9/task64/obj/Debug/net7.0/refint/task64.dll
+/Users/asyateresenko/Desktop/Git/seminar/Seminar9/HTSeminar9/task64/obj/Debug/net7.0/task64.pdb
+/Users/asyateresenko/Desktop/Git/seminar/Seminar9/HTSeminar9/task64/obj/Debug/net7.0/task64.genruntimeconfig.cache
+/Users/asyateresenko/Desktop/Git/seminar/Seminar9/HTSeminar9/task64/obj/Debug/net7.0/ref/task64.dll
